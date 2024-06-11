@@ -1,0 +1,9 @@
+
+
+
+
+    Last_updated_epoch = response.Last_updated_epoch  
+    Last_updated = response.Last_updated  
+    Temp_c = response.Temp_c  
+    Temp_f = response.Temp_f  
+    Is_day = response.Is_day  
